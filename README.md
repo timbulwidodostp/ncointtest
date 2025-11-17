@@ -1,0 +1,2 @@
+# ncointtest
+Non-cointegration test between two time series in the frequency domain, as in Souza et al (2018) Use ncointtest With STATA 19
