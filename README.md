@@ -1,6 +1,8 @@
 # ncointtest
 Non-cointegration test between two time series in the frequency domain, as in Souza et al (2018) Use ncointtest With STATA 19
 
+https://www.youtube.com/watch?v=_rpcD78s8mk
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
